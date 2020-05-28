@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"gin-blog/pkg/setting"
+	"Gin_blog/pkg/setting"
 )
 
 func main() {
