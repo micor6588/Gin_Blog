@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
+	"Gin_Blog/pkg/setting"
 	"Gin_Blog/routers"
-	"Gin_blog/pkg/setting"
 )
 
 func main() {

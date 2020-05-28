@@ -1,10 +1,10 @@
 package util
 
 import (
+	"Gin_Blog/pkg/setting"
+
 	"github.com/Unknwon/com"
 	"github.com/gin-gonic/gin"
-
-	"Gin_blog/pkg/setting"
 )
 
 func GetPage(c *gin.Context) int {
