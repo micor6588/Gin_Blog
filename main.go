@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gin-gonic/gin"
+	"Gin_Blog/pkg/setting"
 
-	"gin-blog/pkg/setting"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
